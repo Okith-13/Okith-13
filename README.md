@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Okith Hettihewa
 
-<!--
-**Okith-13/Okith-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate | 💻 Tech Enthusiast | 🔐 Aspiring Cybersecurity Professional  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m passionate about technology, security, and building systems that are both efficient and secure.  
+Currently focused on developing my skills in cybersecurity, backend development, and modern web technologies.
+
+- 🔐 Interested in Ethical Hacking & System Security  
+- 🌐 Building Web Applications  
+- 🧠 Exploring how systems work under the hood  
+- 🛠️ Working on practical, real-world projects  
+
+---
+
+## 🧠 Current Focus
+
+- Cybersecurity fundamentals & Security Operations  
+- Backend development (Node.js & Firebase)  
+- Authentication systems & secure architectures  
+- Hands-on project building  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Python  
+- JavaScript  
+- HTML  
+- CSS  
+
+### ⚙️ Tools & Platforms
+- Git & GitHub  
+- Firebase  
+- Node.js  
+- VS Code  
+
+### 🔍 Interests
+- Penetration Testing  
+- Secure Application Development  
+- Cloud Security  
+- Automation  
+
+---
+
+## 📈 Goals
+
+- Gain hands-on experience in Cybersecurity  
+- Contribute to open-source projects  
+- Build secure, scalable applications  
+- Land internships in Cybersecurity / DevOps  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/okith-hettihewa-5a109332a/
+- Email: okithhettihewa@gmail.com 
+
+---
+
+⭐ *“Security is not a product, but a process.”*
