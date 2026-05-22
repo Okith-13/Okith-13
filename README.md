@@ -37,7 +37,9 @@ Currently focused on developing my skills in cybersecurity, backend development,
 - Git & GitHub  
 - Firebase  
 - Node.js  
-- VS Code  
+- VS Code
+- Docker
+- MongoDB
 
 ### 🔍 Interests
 - Penetration Testing  
