@@ -47,11 +47,6 @@ Currently focused on developing my skills in cybersecurity, backend development,
 - 🛡️ Secure Application Development
 - ☁️ Cloud Security
 - ⚙️ Automation
-### 🔍 Interests
-- Penetration Testing  
-- Secure Application Development  
-- Cloud Security  
-- Automation  
 
 ---
 
