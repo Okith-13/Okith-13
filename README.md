@@ -19,7 +19,7 @@ Currently focused on developing my skills in cybersecurity, backend development,
 ## 🧠 Current Focus
 
 - Cybersecurity fundamentals & Security Operations  
-- Backend development (Node.js & Firebase)  
+- Full-Stack development (React, Node.js, Express & Firebase)  
 - Authentication systems & secure architectures  
 - Hands-on project building  
 
