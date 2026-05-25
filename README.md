@@ -65,7 +65,7 @@ Currently focused on developing my skills in cybersecurity, backend development,
 - Gain hands-on experience in Cybersecurity  
 - Contribute to open-source projects  
 - Build secure, scalable applications  
-- Land internships in Cybersecurity / DevOps  
+- Land internships in Cybersecurity / DevOps / Full-Stack Web Development 
 
 ---
 
